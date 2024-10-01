@@ -8,4 +8,4 @@ Skrypt, który automatyzuje grupowanie i sumowanie godzin tasków pogrupowanych 
 
 
 # Dane wyjściowe
-![new_data](https://github.com/user-attachments/assets/601a1779-6284-4fd4-a4c3-c67d1ee116f2)
+![image](https://github.com/user-attachments/assets/0a735da4-fde3-4e52-8688-5dbb3ac87a0e)
